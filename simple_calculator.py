@@ -44,7 +44,7 @@ def equal():
         i=len(str(result))
     except:
         clear()
-        d.inser(0,'error')
+        d.insert(0,'error')
     
 
 
